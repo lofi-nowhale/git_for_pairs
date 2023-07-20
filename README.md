@@ -1,1 +1,3 @@
-# git_for_pairs part 1
+# git_for_pairs
+ here's some stuff I added
+ and some more stuff
